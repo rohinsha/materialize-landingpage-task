@@ -153,8 +153,7 @@ margin-right: 10px;
 .button-collapse-3 {
  position: absolute;
  right: 20px;
-  bottom: 300px;
-  z-index: 20;
+ top:20px; 
 
 
 }
