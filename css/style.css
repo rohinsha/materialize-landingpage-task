@@ -47,7 +47,7 @@ ul {
 .close-1{
   position:absolute;
   top:10px;
-  left:275px;
+  left:255px;
   color:grey;
   background-color: black;
 
@@ -88,3 +88,73 @@ margin-right: 10px;
   z-index: 20;
 }
 
+
+
+
+@media (max-width: 600px){
+  .content .btn{
+    padding: 5px;
+    line-height:25px;
+    font-size: 20px;
+  }
+
+  .col{
+    position: relative;
+    height: 300px;
+  }
+
+  .content {
+    top:100px;
+  }
+
+   .content h2 {
+    font-size: 30px;
+   }
+
+
+  .button-collapse-1 .material-icons {
+    font-size: 20px !important;
+  }
+
+  .button-collapse-1{
+    left:10px !important;
+  }
+
+.side-nav{
+  width:200px;
+}
+
+
+.close-1{
+ 
+  top:10px;
+  left:165px;
+ background-color:grey;
+ color:black;
+
+ 
+
+}
+.close-3{
+  position:absolute;
+  top:10px;
+  right:165px;
+  color:grey;
+  background-color: black;
+
+}
+.custom-top{
+  margin-top:292px;
+}
+
+
+}
+
+.button-collapse-3 {
+ position: absolute;
+ right: 20px;
+  bottom: 300px;
+  z-index: 20;
+
+
+}
