@@ -143,17 +143,15 @@ margin-right: 10px;
   background-color: black;
 
 }
-.custom-top{
-  margin-top:292px;
-}
-
-
-}
 
 .button-collapse-3 {
  position: absolute;
  right: 20px;
  top:20px; 
+z-index: 10;
+
+}
 
 
 }
+
